@@ -28,6 +28,7 @@ var Playlist = /** @class */ (function () {
         this.tracks = [];
     }
     Playlist.add = function () {
+        var lasse;
     };
     return Playlist;
 }());

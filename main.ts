@@ -35,7 +35,7 @@ class Playlist {
     }
 
     static add(){
-        
+        let lasse;
     }
 }
 Driver.exam();
